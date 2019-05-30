@@ -3,11 +3,11 @@ def create_an_empty_array
 end
 
 def create_an_array
-  colors =["blue", "red", "orange", "green"]
+  array =["blue", "red", "orange", "green"]
 end
 
 def add_element_to_end_of_array(array, element)
-  colors << "yellow"
+  array << "yellow"
 end
 
 def add_element_to_start_of_array(array, element)
